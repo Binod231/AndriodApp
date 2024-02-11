@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_test">Happy Birthday Ankit!</string>
+    <string name="from_binod">From Binod</string>
+    <string name="jetpack_compose_tutorial_text">Jetpack Compose tutorial</string>
+    <string name="message_2_text">" and intuitive Kotlin APIs."</string>
+    <string name="jetpack_compose_is_a_modern">"Jetpack Compose is a modern "</string>
+    <string name="toolkit_for_building_native_android_ui">toolkit for building native Android UI.</string>
+    <string name="compose_simplifies_and_accelerates_ui_development">" Compose simplifies and accelerates UI development "</string>
+    <string name="on_android_with_less_code_powerful_tools">on Android with less code, powerful tools,</string>
+    <string name="in_this_tutorial">In this tutorial,</string>
+    <string name="you_build_a_simple_ui_component_with_declarative_functions">" you build a simple UI component with declarative functions."</string>
+    <string name="you_call_compose_functions_to_say_what_elements_you_want">" You call Compose functions to say what elements you want"</string>
+    <string name="and_the_compose_compiler_does_the_rest_compose_is_built">" and the Compose compiler does the rest. Compose is built "</string>
+    <string name="around_composable_functions_these_functions_let_you_define">around Composable functions. These functions let you define</string>
+    <string name="how_it_should_look_and_provide_data_dependencies_rather">" how it should look and provide data dependencies, rather"</string>
+    <string name="than_focus_on_the_process_of_the_ui_s_construction">" than focus on the process of the UI\\'s construction,"</string>
+    <string name="such_as_initializing_an_element_and_then_attaching_it">" such as initializing an element and then attaching it "</string>
+    <string name="to_a_parent_to_create_a_composable_function">"to a parent. To create a Composable function, "</string>
+    <string name="you_add_the_composable_annotation_to_the_function_name">you add the @Composable annotation to the function name.</string>
+    <string name="your_app_s_ui_programmatically_because_they_let_you_describe">" your app\\'s UI programmatically because they let you describe"</string>
+</resources>
